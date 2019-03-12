@@ -10,7 +10,7 @@ export default class About extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>Recently graduated with certificate in Full-stack web developer from the UCF Coding Bootcamp with a vast array of knowledge in many different front and back end languages, responsive frameworks, database, and best code practices. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development. I have a background in customer service, Payroll, Tax and a Bachelor's degree in Accounting from UCF. </p>
+            <p>Recently graduated with certificate in Full-stack web developer from the UCF Coding Bootcamp with a vast array of knowledge in many different front and back end languages, responsive frameworks, database, and best code practices. I am dedicated to perfecting my craft by learning from more seasoned developers, remaining humble, and continuously making strides to learn all that I can about development. I have a background in <span>customer service, Payroll, Tax</span> and a Bachelor's degree in Accounting from UCF. </p>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact Details</h2>

@@ -14,7 +14,7 @@ export default class Resume extends Component {
           <div className="nine columns main-col">
             <div className="row item">
               <div className="twelve columns">
-                <h3>University of central Florida</h3>
+                <h3>University of Central Florida</h3>
                 <p className="info">Certificate in Full-stack Web Developer<span>•</span> <em className="date">February 2019</em></p>
 
                 <p>
