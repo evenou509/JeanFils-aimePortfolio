@@ -52,12 +52,13 @@ export default class ContactUs extends Component {
           </div>
           <aside className="four columns footer-widgets">
             <div className="widget widget_contact">
-              <h4>Address and Phone</h4>
+              <h4>Email and Phone</h4>
               <p className="address">
                 Jean Fils-aime<br />
-                3003 S Semoran Blvd apt# 150 <br />
-                Orlando, FL 32822 US<br />
-                <span>(954) 478-3992</span>
+                {/* 3003 S Semoran Blvd apt# 150 <br /> */}
+                {/* Orlando, FL 32822 US<br /> */}
+                <span>(954) 478-3992</span> <br/>
+                <span>Jeaneddy25@gmail.com</span>
               </p>
             </div>
           </aside>
